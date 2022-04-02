@@ -1,7 +1,7 @@
 # Chapter IV - Construindo interfaces do futuro
 
 <p align="center">
-  <img alt="Construindo interfaces do futuro" src="https://xesque.rocketseat.dev/platform/1617214059963.svg" width="150" hspace="50" align="center"/>
+  <img alt="Construindo interfaces do futuro" src="https://xesque.rocketseat.dev/platform/1617214059963.svg" width="150"  align="center"/>
   <img alt="Data fetching e cache local" src="https://xesque.rocketseat.dev/platform/1617970681158.svg" width="150" hspace="50" align="center"/>
     <img alt="Autenticação e autorização" src="https://xesque.rocketseat.dev/platform/1620053517721.svg" width="150" align="center"/>
 </p>
